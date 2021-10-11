@@ -12,5 +12,5 @@
   <img align="center" alt="Luma-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Luma-.Net" height="40" width="65" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img align="center" alt="Luma-.Net" height="40" width="85" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
- <src= "https://tenor.com/view/zerotwo-002-one-more-human-klaxo-one-more-gif-12138782">
+ <src= "![image](https://user-images.githubusercontent.com/55602175/136732467-65c8613e-7322-4569-9ad5-48a73bd60e27.png)">
  </div>
