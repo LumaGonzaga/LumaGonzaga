@@ -15,7 +15,11 @@
   <img align="center" alt="Luma-.C++" height="40" width="65" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
  </div>
  ##
- </div>
-   ![Snake animation](https://github.com/lumaagonzaga/lumagonzaga/blob/output/github-contribution-grid-snake.svg)
+<div> 
   
- </div>
+  <a href = "mailto:lumagonzaga@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/lumagonzaga/lumagonzaga/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
