@@ -1,4 +1,4 @@
-## Olá!! Eu sou a Luma Gonzaga
+#Olá!! Eu sou a Luma Gonzaga
 
 - 🌱 Estou estudando C# e .Net
 - 😄 Pronouns: Ela/Dela
