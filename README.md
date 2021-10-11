@@ -13,6 +13,7 @@
   <img align="center" alt="Luma-.Net" height="40" width="65" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img align="center" alt="Luma-.Net" height="45" width="80" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
   <img align="center" alt="Luma-.C++" height="40" width="65" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  src="https://cdn.discordapp.com/attachments/629443281016848405/897223269839695942/20211011_173842.gif">
  </div>
  
    ##
@@ -22,7 +23,7 @@
    <a href = "mailto:lumagonzaga@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/luma-gonzaga-934712141/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.instagram.com/lumaquintanilha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- src="https://cdn.discordapp.com/attachments/629443281016848405/897223269839695942/20211011_173842.gif">
+
  
   ![Snake animation](https://github.com/lumagonzaga/lumagonzaga/blob/output/github-contribution-grid-snake.svg)
  
