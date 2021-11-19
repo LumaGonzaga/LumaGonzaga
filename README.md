@@ -15,7 +15,7 @@
   <img align="center" alt="Luma-Azure" height="35" width="75" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
   <img align="center" alt="Luma-C" height="35" width="55" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
  <img align="right" alt="Luma-gif" height="150" width="150" src="https://cdn.discordapp.com/attachments/629443281016848405/897223269839695942/20211011_173842.gif">
- src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
   
  </div>
  
