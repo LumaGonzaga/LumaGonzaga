@@ -3,7 +3,7 @@
 - 🌱 Estou estudando C# e .Net
 - 😄 Pronomes: Ela/Dela
  <a href="https://github.com/lumagonzaga">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lumagonzaga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lumagonzaga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumagonzaga&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
