@@ -1,6 +1,5 @@
 <h1 align="center">Olá, Bem vindos ao meu perfil</h1>
 
-   Olá!! Eu sou a Luma Gonzaga
 
 - 🚀 Desenvolvedora Full Stack Java
 - 🎓 Graduada em Engenharia de Software (2025)
