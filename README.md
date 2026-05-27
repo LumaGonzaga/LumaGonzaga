@@ -73,10 +73,10 @@ Possuo experiência com versionamento de código utilizando GitHub e Azure DevOp
 
 ###
 
-<picture> 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LumaGonzaga/LumaGonzaga/output/snake-dark.svg"> 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LumaGonzaga/LumaGonzaga/output/snake.svg"> 
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/LumaGonzaga/LumaGonzaga/output/snake-dark.svg"> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LumaGonzaga/LumaGonzaga/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LumaGonzaga/LumaGonzaga/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/LumaGonzaga/LumaGonzaga/output/snake-dark.svg">
 </picture>
 
 ###
