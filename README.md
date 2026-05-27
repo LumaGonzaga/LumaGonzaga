@@ -6,12 +6,13 @@
 - 💻 4 anos e meio de experiência na área
 - 😄 Pronomes: Ela/Dela
 ###
-
+## 🧠 Sobre mim
 Desenvolvedora Full Stack, com experiência no desenvolvimento de microserviços em Java utilizando Spring Boot, criação e integração de APIs REST para comunicação entre sistemas e microsserviços, além de persistência de dados com JPA em bancos H2 e MySQL.
 Tenho experiência com autenticação e segurança utilizando Spring Security, JWT e OAuth2, desenvolvimento de testes unitários com Mockito e análise de cobertura de testes com JaCoCo. Também atuo com Docker, Postman e Bruno para testes e validações de APIs REST locais.
 Possuo experiência com versionamento de código utilizando GitHub e Azure DevOps, além de vivência em metodologias ágeis, especialmente Scrum, utilizando Jira para acompanhamento de demandas, organização e entregas de projetos.
   
 ###
+## 🤖 Linguagens e Tecnologias
 
 
 <div align="center">
@@ -38,6 +39,7 @@ Possuo experiência com versionamento de código utilizando GitHub e Azure DevOp
 
 ###
 
+## 📫 Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luma-gonzaga-934712141/" target="_blank">
@@ -53,9 +55,21 @@ Possuo experiência com versionamento de código utilizando GitHub e Azure DevOp
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=LumaGonzaga&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
+## 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    width="48%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=lumagonzaga&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
+  />
+
+  <img 
+    align="left" 
+    height="200"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lumagonzaga&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
+  />
+</p>
 
 ###
 
