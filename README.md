@@ -61,13 +61,13 @@ Possuo experiência com versionamento de código utilizando GitHub e Azure DevOp
   <img 
     align="left" 
     width="48%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=lumagonzaga&show_icons=true&bg_color=0d1117&title_color=FFB5C0&text_color=ffffff&icon_color=FFB5C0&border_color=FFB5C0"
+     src="https://github-readme-stats-sigma-five.vercel.app/api?username=lumagonzaga&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
   />
 
   <img 
     align="left" 
     height="200"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lumagonzaga&layout=compact&bg_color=0d1117&title_color=FFB5C0&text_color=ffffff&border_color=FFB5C0"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lumagonzaga&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
   />
 </p>
 
