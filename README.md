@@ -1,34 +1,57 @@
-#Olá!! Eu sou a Luma Gonzaga
+<h1 align="center">Olá, Bem vindos ao meu perfil</h1>
 
-- 🚀 Desenvolvedora Full Stack Java
-- 🎓 Graduada em Engenharia de Software (2025)
-- 💻 4 anos e meio de experiência na área
-- 😄 Pronomes: Ela/Dela
+###
 
-<div>
- <a href="https://github.com/lumagonzaga">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lumagonzaga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumagonzaga&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luma-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luma-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="center" alt="Luma-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Luma-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luma-.Net" height="35" width="60" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img align="center" alt="Luma-Azure" height="35" width="75" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-  <img align="center" alt="Luma-C" height="35" width="55" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
- <img align="right" alt="Luma-gif" height="150" width="150" src="https://cdn.discordapp.com/attachments/629443281016848405/897223269839695942/20211011_173842.gif">
 
- </div>
- 
-   ##
- 
- 
-   ##
-   
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/luma-gonzaga-934712141/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:"luma2gonzaga@outlook.com.br"" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="mailto:"lumagonzaga17@gmail.com"" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LumaGonzaga&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
+
+###
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LumaGonzaga/LumaGonzaga/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LumaGonzaga/LumaGonzaga/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/LumaGonzaga/LumaGonzaga/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LumaGonzaga/LumaGonzaga/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LumaGonzaga/LumaGonzaga/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LumaGonzaga/LumaGonzaga/pacman-output/pacman-contribution-graph.svg">
 </picture>
+
+###
