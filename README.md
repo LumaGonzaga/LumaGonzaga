@@ -1,7 +1,11 @@
 #Olá!! Eu sou a Luma Gonzaga
 
-- 🌱 Desenvolvedora Full Stack Java
+- 🚀 Desenvolvedora Full Stack Java
+- 🎓 Graduada em Engenharia de Software (2025)
+- 💻 4 anos e meio de experiência na área
 - 😄 Pronomes: Ela/Dela
+
+<div>
  <a href="https://github.com/lumagonzaga">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lumagonzaga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumagonzaga&layout=compact&langs_count=7&theme=dracula"/>
