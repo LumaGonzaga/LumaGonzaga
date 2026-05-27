@@ -1,6 +1,6 @@
 #Olá!! Eu sou a Luma Gonzaga
 
-- 🌱 Estou estudando C# e .Net
+- 🌱 Desenvolvedora Full Stack Java
 - 😄 Pronomes: Ela/Dela
  <a href="https://github.com/lumagonzaga">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lumagonzaga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
